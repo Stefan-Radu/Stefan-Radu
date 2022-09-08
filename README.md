@@ -15,11 +15,10 @@ Passionate about Linux, the FOSS movement, peculiar software and efficient work 
 
 Hobbyist photographer (checkout my website, maybe I have something on it).
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stefan-Radu&theme=gruvbox&hide_border=true&layout=default&langs_count=7&exclude_repo=obsidian,papers,Cursuri-An-2-Facultate" alt="stef's langs card" /></p>
-  <p>&nbsp;
+<div style="display:flex; flex-direction:row; align-items:center; justify-content:space-between;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stefan-Radu&show_icons=true&theme=gruvbox&hide_border=true" alt="stef's stats card" />
-</p>
+  &emsp;&emsp;&emsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stefan-Radu&theme=gruvbox&hide_border=true&layout=compact&langs_count=8&exclude_repo=obsidian" alt="stef's langs card" />
+</div>
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Stefan-Radu&repo=kindaOSU)](https://github.com/Stefan-Radu/Acclivity)
