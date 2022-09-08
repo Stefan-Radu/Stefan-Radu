@@ -23,7 +23,7 @@ I thought they looked cool 🫠
 
 ## Unrelated 🪅 
 
-I'm a hobbyist photographer 📷 and Kendo athelete. Checkout my [website](radu.cc), maybe you'll find something there 😄
+I'm a hobbyist photographer 📷 and Kendo athelete. Checkout my [website](https://radu.cc), maybe you'll find something there 😄
 
 ## Projects 💾
 
