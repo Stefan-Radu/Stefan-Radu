@@ -1,8 +1,8 @@
 ## 🚀 About Me
 
-I'm a student and an aspiring software virtuoso 🧑🏻‍💻
+I'm a student and an aspiring software _virtuoso_ 🧑🏻‍💻
 
-I am currently pursuing 🧑🏻‍🎓 a MSc in Security and Applied Logic @University of Bucharest 🏛️
+I am currently pursuing 🧑🏻‍🎓 a MSc in _Security and Applied Logic_ @University of Bucharest 🏛️
 
 I enjoy coding and understanding intricate systems 🧮 at a lower level.
 
@@ -15,7 +15,7 @@ Checkout my `.dotfiles`, maybe you can steal something cool!!
 ## Here're some stats 📊
 
 <div style="display:flex; flex-direction:row; align-items:center; justify-content:start;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stefan-Radu&theme=gruvbox&hide_border=true&layout=compact&langs_count=8&exclude_repo=obsidian&card_width=300" alt="stef's langs card" /> &emsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stefan-Radu&theme=gruvbox&hide_border=true&layout=compact&langs_count=5&exclude_repo=obsidian&card_width=200" alt="stef's langs card" /> &emsp;
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stefan-Radu&show_icons=true&theme=gruvbox&hide_border=true&hide=issues" alt="stef's stats card" />
 </div>  </br>
 
