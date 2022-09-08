@@ -1,8 +1,12 @@
-#### Welcome to this github page 👋🏼
-
 ## 🚀 About Me
 
-Passionate about Linux, the FOSS movement, cybersec, peculiar software and cool ⚡ work setups. I enjoy coding and understanding intricate systems at a lower level.
+I'm a student and an aspiring software virtuoso 🧑🏻‍💻
+
+I am currently pursuing 🧑🏻‍🎓 a MSc in Security and Applied Logic @University of Bucharest 🏛️
+
+I enjoy coding and understanding intricate systems 🧮 at a lower level.
+
+Passionate about Linux, the FOSS movement, cybersec, peculiar software and cool ⚡ work setups.  
 
 Checkout my `.dotfiles`, maybe you can steal something cool!!
 
@@ -10,16 +14,16 @@ Checkout my `.dotfiles`, maybe you can steal something cool!!
  
 ## Here're some stats 📊
 
-<div style="display:flex; flex-direction:row; align-items:center; justify-content:space-between;">
+<div style="display:flex; flex-direction:row; align-items:center; justify-content:start;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stefan-Radu&theme=gruvbox&hide_border=true&layout=compact&langs_count=8&exclude_repo=obsidian" alt="stef's langs card" /> &emsp;
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stefan-Radu&show_icons=true&theme=gruvbox&hide_border=true&hide=issues" alt="stef's stats card" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stefan-Radu&show_icons=true&theme=gruvbox&hide_border=true&hide=issues,contribs&card_width=100" alt="stef's stats card" />
 </div>  </br>
 
 I thought they looked cool 🫠
 
 ## Unrelated 🪅 
 
-I'm a hobbyist photographer and Kendo athelete. Checkout my [website](radu.cc), maybe you'll find something there 😄
+I'm a hobbyist photographer 📷 and Kendo athelete. Checkout my [website](radu.cc), maybe you'll find something there 😄
 
 ## Projects 💾
 
