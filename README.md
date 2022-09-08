@@ -15,8 +15,8 @@ Checkout my `.dotfiles`, maybe you can steal something cool!!
 ## Here're some stats 📊
 
 <div style="display:flex; flex-direction:row; align-items:center; justify-content:start;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stefan-Radu&theme=gruvbox&hide_border=true&layout=compact&langs_count=8&exclude_repo=obsidian" alt="stef's langs card" /> &emsp;
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stefan-Radu&show_icons=true&theme=gruvbox&hide_border=true&hide=issues,contribs&card_width=100" alt="stef's stats card" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stefan-Radu&theme=gruvbox&hide_border=true&layout=compact&langs_count=8&exclude_repo=obsidian&card_width=300" alt="stef's langs card" /> &emsp;
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stefan-Radu&show_icons=true&theme=gruvbox&hide_border=true&hide=issues" alt="stef's stats card" />
 </div>  </br>
 
 I thought they looked cool 🫠
