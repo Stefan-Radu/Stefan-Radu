@@ -25,6 +25,18 @@ I thought they looked cool 🫠
 
 I'm a hobbyist photographer 📷 and Kendo athelete. Checkout my [website](https://radu.cc), maybe you'll find something there 😄
 
-## Projects 💾
+## Contact
+
+For anything software related (or not), don't hesitate to contact me.
+
+<a href="mailto:stefan@radu.cc"> 
+ <img src="https://img.shields.io/static/v1?label=&message=Email&color=edb100&logo=&style=for-the-badge&messageColor=black"</img>
+</a> &nbsp;
+<a href="https://www.linkedin.com/in/stefan-octavian-radu/"> 
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</img> 
+</a>
+
+
+## Projects 🔩
 
 I have worked on multiple projects, from web apps to desktop and embeded. You can check them below  ⬇️
