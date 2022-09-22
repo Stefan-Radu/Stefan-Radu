@@ -1,10 +1,10 @@
 ## 🚀 About Me
 
-I'm a student and an aspiring software _virtuoso_ 🧑🏻‍💻
+I'm a student and tech enthusiast 🧑🏻‍💻
 
 I am currently pursuing 🧑🏻‍🎓 a MSc in _Security and Applied Logic_ @University of Bucharest 🏛️
 
-I enjoy coding, building things scratch and understanding intricate systems 🧮 at a lower level.
+I enjoy coding, building things scratch and understanding intricate systems 🧮 especially at a lower level.
 
 Passionate about Linux, the FOSS movement, cybersec, peculiar software and cool ⚡ work setups.  
 
