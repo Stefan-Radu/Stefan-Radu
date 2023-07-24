@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Stefan! 🍃 </h1>
 
-## I AM (a)
+## I am (a)
 * 🧑🏻‍💻 _Cybersecurity and Logic_ student @University of Bucharest
 * 👾 Proud member of the CTF team [.hidden](https://dothidden.xyz) 
 * 💾 Interested in anything OS, Security, and low-level related
