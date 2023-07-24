@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Stefan! 🍃 </h1>
+# Hi, I'm Stefan! 🍃
 
 ## I am (a)
 * 🧑🏻‍💻 _Cybersecurity and Logic_ student @University of Bucharest
