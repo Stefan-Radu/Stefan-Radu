@@ -1,33 +1,27 @@
-## 🚀 About Me
+<h1 align="center"> Hi, I'm Stefan! 🍃 </h1>
 
-I'm a student and tech enthusiast 🧑🏻‍💻
+## I AM (a)
+* 🧑🏻‍💻 _Cybersecurity and Logic_ student @University of Bucharest
+* 👾 Proud member of the CTF team [.hidden](https://dothidden.xyz) 
+* 💾 Interested in anything OS, Security, and low-level related
+* 🐧 Linux, FOSS and decentralization enthusiast
+* ⚙ Currently into emulators and reverse engineering
+* 📸 Hobbyist photographer
+* 🤺 Kendo athlete
 
-I am currently pursuing 🧑🏻‍🎓 a MSc in _Security and Applied Logic_ @University of Bucharest 🏛️
-
-I enjoy coding, building things scratch and understanding intricate systems 🧮 especially at a lower level.
-
-Passionate about Linux, the FOSS movement, cybersec, peculiar software and cool ⚡ work setups.  
-
-Checkout my `.dotfiles`, maybe you can steal something cool!!
-
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Stefan-Radu&repo=dotfiles&theme=gruvbox&hide_border=true)](https://github.com/Stefan-Radu/dotfiles)
- 
-## Here are some stats 📊
-
+----
+<!--
 <div style="display:flex; flex-direction:row; align-items:center; justify-content:start;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stefan-Radu&theme=gruvbox&hide_border=true&layout=compact&langs_count=6&exclude_repo=obsidian,cursuri-licenta&card_width=200&hide=processing,jupyter%20notebook,c%23,dart,css,html,tex" alt="stef's langs card" /> &emsp;
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stefan-Radu&show_icons=true&theme=gruvbox&hide_border=true&hide=issues" alt="stef's stats card" />
-</div>  </br>
+</div>  </br> -->
 
-I thought they looked cool 🫠
+![](https://raw.githubusercontent.com/stefan-radu/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/stefan-radu/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
-## Unrelated 🪅 
+### Contact
 
-I'm a hobbyist photographer 📷 and Kendo athelete. Checkout my [website](https://radu.cc), maybe you'll find something there 😄
-
-## Contact
-
-For anything software related (or not), don't hesitate to contact me.
+If you want to get in touch, send me an email or a message on Linkedin.
 
 <a href="mailto:stefan@radu.cc"> 
  <img src="https://img.shields.io/static/v1?label=&message=Email&color=edb100&logo=&style=for-the-badge&messageColor=black"</img>
@@ -35,8 +29,3 @@ For anything software related (or not), don't hesitate to contact me.
 <a href="https://www.linkedin.com/in/stefan-octavian-radu/"> 
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</img> 
 </a>
-
-
-## Projects 🔩
-
-I have worked on multiple projects, from web apps to desktop and embeded. You can check them below  ⬇️
