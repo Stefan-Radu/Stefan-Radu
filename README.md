@@ -16,8 +16,14 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stefan-Radu&show_icons=true&theme=gruvbox&hide_border=true&hide=issues" alt="stef's stats card" />
 </div>  </br> -->
 
-![](https://raw.githubusercontent.com/stefan-radu/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+<span>
+<img src="https://raw.githubusercontent.com/stefan-radu/github-stats/master/generated/overview.svg#gh-dark-mode-only"></img>
+<img src="https://raw.githubusercontent.com/stefan-radu/github-stats/master/generated/languages.svg#gh-dark-mode-only"></img>
+</span>
+
+<!-- ![](https://raw.githubusercontent.com/stefan-radu/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/stefan-radu/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+-->
 
 ### Contact
 
