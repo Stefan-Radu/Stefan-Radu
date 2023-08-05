@@ -1,7 +1,7 @@
 # Hi, I'm Stefan! 🍃
 
 ## I am (a)
-* 🧑🏻‍💻 _Cybersecurity and Logic_ student @University of Bucharest
+* 🧑🏻‍💻 _Cybersecurity and Applied Logic_ student @University of Bucharest
 * 👾 Proud member of the CTF team [.hidden](https://dothidden.xyz) 
 * 💾 Interested in anything OS, Security, and low-level related
 * 🐧 Linux, FOSS and decentralization enthusiast
