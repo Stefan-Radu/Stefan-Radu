@@ -1,11 +1,9 @@
 # Hi, I'm Stefan! 🍃
 
 ## I am (a)
-* 🧑🏻‍💻 _Cybersecurity and Applied Logic_ student @University of Bucharest
 * 👾 Proud member of the CTF team [.hidden](https://dothidden.xyz) 
-* 💾 Interested in anything OS, Security, and low-level related
+* 💾 Interested in anything related to Security, Reverse Engineering, Hacking 
 * 🐧 Linux, FOSS and decentralization enthusiast
-* ⚙ Currently into emulators and reverse engineering
 * 📸 Hobbyist photographer
 * 🤺 Kendo athlete
 
@@ -15,12 +13,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stefan-Radu&theme=gruvbox&hide_border=true&layout=compact&langs_count=6&exclude_repo=obsidian,cursuri-licenta&card_width=200&hide=processing,jupyter%20notebook,c%23,dart,css,html,tex" alt="stef's langs card" /> &emsp;
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stefan-Radu&show_icons=true&theme=gruvbox&hide_border=true&hide=issues" alt="stef's stats card" />
 </div>  </br> -->
-
-![](https://raw.githubusercontent.com/stefan-radu/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/stefan-radu/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-![](https://raw.githubusercontent.com/stefan-radu/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/stefan-radu/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ### Contact
 
